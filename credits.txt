@@ -1,0 +1,2 @@
+Thanks to CoFH for making CoFHCore at https://github.com/CoFH/CoFHCore for their well written license.
+Thanks to Kzisor and Simplex at the Don't Starve Together forums for their mod environment.
