@@ -1,4 +1,4 @@
-#Rose The Hellhound
+#Xapham The Naive
 ##License
 ###[Code License](https://github.com/DST-Modders/DrSmugLib/blob/master/LICENSE - CODE.txt)
 Code is Copyright © 2015 DrSmugleaf ALL RIGHTS RESERVED unless explicitly stated otherwise in a file. See NOTICES.txt for exceptions.
